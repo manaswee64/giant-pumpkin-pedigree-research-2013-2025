@@ -1,0 +1,9 @@
+Metric,Spearman_Rho,P_value,Direction
+Mother unique-parent ratio,-0.5714285714285714,0.0413422673717235,Decreasing
+Pollinator unique-parent ratio,-0.2582417582417582,0.3942840173973614,Decreasing
+Mother Top-10 share,0.016483516483516484,0.9573761750901848,Increasing
+Pollinator Top-10 share,-0.26373626373626374,0.38393651665067413,Decreasing
+Mother Simpson concentration,0.0,1.0,Decreasing
+Pollinator Simpson concentration,-0.37912087912087916,0.2014060899610435,Decreasing
+Mother effective number,0.0,1.0,Decreasing
+Pollinator effective number,0.37912087912087916,0.2014060899610435,Increasing

@@ -1,0 +1,16 @@
+metric,value
+linear_slope_lb_per_year,53.169230769230786
+linear_p_value,3.2308582856888835e-05
+linear_R_squared,0.8047244357357364
+linear_95CI_lower,33.097036480124274
+linear_95CI_upper,67.98208312063491
+spearman_rho,0.9230769230769231
+spearman_p_value,6.851685949643354e-06
+quadratic_coefficient,-3.290609390250819
+quadratic_R_squared,0.8386300631531292
+quadratic_95CI_lower,-7.8622097656109435
+quadratic_95CI_upper,2.0661755628448146
+best_piecewise_breakpoint,2016.0
+piecewise_slope_before,126.11832579188581
+piecewise_slope_after,37.606757164403334
+piecewise_slope_change,-88.51156862748248

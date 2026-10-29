@@ -1,0 +1,2 @@
+N,Pearson_r,Pearson_p,Spearman_rho,Spearman_p,MAE_lbs,RMSE_lbs,Bias_actual_minus_estimated,Median_error
+23365,0.8869117046973141,0.0,0.8642833053062833,0.0,125.03097453456023,270.8326465024667,80.41214551679862,13.5

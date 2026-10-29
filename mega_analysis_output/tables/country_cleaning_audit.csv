@@ -1,0 +1,29 @@
+Country,Country_Clean,Country_Clean_Method,records
+United States,United States,normalized,14467
+Canada,Canada,normalized,3004
+Germany,Germany,normalized,1867
+Italy,Italy,normalized,614
+Austria,Austria,normalized,572
+Japan,Japan,normalized,565
+Belgium,Belgium,normalized,527
+United Kingdom,United Kingdom,unchanged,288
+Spain,Spain,normalized,259
+Portugal,Portugal,normalized,214
+Slovenia,Slovenia,normalized,207
+Netherlands,Netherlands,normalized,204
+France,France,normalized,193
+South Africa,South Africa,normalized,167
+Switzerland,Switzerland,normalized,160
+Finland,Finland,normalized,115
+Poland,Poland,normalized,100
+New Zealand,New Zealand,normalized,77
+Russia,Russia,normalized,28
+Hungary,Hungary,normalized,20
+Mexico,Mexico,normalized,18
+Ireland,Ireland,normalized,13
+Serbia,Serbia,normalized,9
+Denmark,Denmark,normalized,6
+Australia,Australia,normalized,4
+Luxembourg,Luxembourg,unchanged,1
+Ontario,Canada,country_field_was_province,1
+Unknown country,United States,inferred_from_state,1

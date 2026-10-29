@@ -1,0 +1,2 @@
+analysis_start_year,analysis_end_year,total_records,documented_parent_offspring_links,unique_named_parents,documented_parent_pairs,network_parent_nodes,network_offspring_nodes,network_edges,top_1_percent_weight_threshold_lbs
+2013,2025,23365,26487,10261,9137,10261,16537,25797,2118.0

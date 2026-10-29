@@ -1,0 +1,234 @@
+parent,role,elite_records,mean_elite_weight,max_elite_weight,years
+2365 Wolf 2021,mother,21,2341.014285714286,2749.0,3
+2183.7 Mendi 2019,mother,16,2276.7,2618.0,6
+1885.5 Werner 2019,mother,15,2319.56,2702.9,5
+2365 Wolf 2021,pollinator,12,2227.0583333333334,2449.0,4
+2560 Gienger 2022,mother,11,2364.6727272727276,2557.4,3
+1940 Urena 2020,pollinator,7,2294.4142857142856,2741.5,3
+2144 Barron 2022,mother,7,2369.285714285714,2731.5,3
+1727 Jacobus 2022,mother,6,2391.0333333333333,2639.4,3
+1885.5 Werner 2019,pollinator,6,2301.3333333333335,2554.0,2
+2731.5 Stelts 2024,mother,6,2336.7166666666667,2741.5,1
+2145.5 McMullen 2015,pollinator,6,2322.7000000000003,2610.3,5
+2465.5 Sperry 2023,pollinator,6,2319.6666666666665,2505.0,2
+2624.6 Willemijns 2016,mother,5,2247.48,2469.0,4
+2560 Gienger 2022,pollinator,5,2325.34,2670.0,2
+2145.5 McMullen 2015,mother,5,2310.04,2624.6,4
+2501 Bernstrom 2023,mother,4,2263.075,2341.3,2
+2144 Barron 2022,pollinator,4,2421.075,2819.3,2
+2222 Gienger 2023 DMG,pollinator,4,2330.0,2471.0,2
+2266 Kisamore 2023,mother,4,2235.15,2381.0,2
+2005 Haist 2018,pollinator,3,2295.1666666666665,2593.7,2
+2624.6 Willemijns 2016,pollinator,3,2148.2999999999997,2170.0,1
+2114 Wallace 2018,mother,3,2230.6666666666665,2294.5,3
+2177 Ford 2023,pollinator,3,2252.866666666667,2346.0,1
+2222 Gienger 2023 DMG,mother,3,2259.1666666666665,2376.0,2
+2183.7 Mendi 2019,pollinator,3,2185.266666666667,2218.0,2
+2177 Ford 2023,mother,3,2415.5,2551.0,2
+2020 Paton 2023 DMG,mother,3,2517.5666666666666,2641.1,2
+2554 Andrusz 2022,mother,3,2348.6666666666665,2477.5,2
+1686.5 Stelts 2019,mother,3,2212.8333333333335,2262.0,2
+1911 Urena 2017,mother,3,2298.5333333333333,2528.0,2
+1707.5 Caspers 2021,pollinator,3,2204.4,2344.5,2
+2009 Wallace 2012,mother,3,2271.733333333333,2323.7,3
+2198 Sperry 2023,mother,3,2405.1666666666665,2507.0,2
+2554 Andrusz 2022,pollinator,3,2420.1666666666665,2518.0,2
+2670 Thompson 2024,pollinator,3,2327.6666666666665,2587.0,1
+2006 Wolf 2022,pollinator,3,2341.1666666666665,2465.0,2
+1781 Zywiec,pollinator,2,2204.65,2252.3,1
+2020 Paton 2023 DMG,pollinator,2,2370.5,2618.0,1
+1953 Daletas 2020,pollinator,2,2252.5,2262.0,1
+1940 Urena 2020,mother,2,2506.05,2656.1,2
+1727 Jacobus 2022,pollinator,2,2439.95,2641.1,2
+2154 Sperry 2023,mother,2,2364.0,2587.0,2
+2147 Marshall 2022,pollinator,2,2263.75,2376.0,2
+2143 Stelts 2023,pollinator,2,2556.25,2731.5,1
+2096.5 Barron 2021,pollinator,2,2340.55,2447.1,1
+2356.7 Mendi 2021,pollinator,2,2403.35,2656.1,1
+2294.5 Noel 2019,pollinator,2,2340.5,2480.0,2
+2294.5 Noel 2019,mother,2,2322.25,2376.0,2
+1953 Daletas 2020,mother,2,2280.0,2342.0,2
+1832.5 Graham 2020,pollinator,2,2341.5,2465.5,1
+1832.5 Graham 2020,mother,2,2339.0,2480.0,2
+1620 Pritchard 2021,pollinator,2,2351.5,2453.0,1
+1686.5 Stelts 2019,pollinator,2,2309.85,2356.7,2
+1501 Vander Wielen,mother,2,2211.5,2271.0,2
+1965.5 Rodebaugh 2021,mother,2,2175.3,2206.1,2
+1975.5 Fleser 2023,pollinator,2,2410.0,2477.5,2
+2069 Stelts 2022,pollinator,2,2231.0,2319.0,2
+1865 Werner 2023,mother,2,2301.75,2369.5,2
+1911 Urena 2017,pollinator,2,2183.0,2191.0,2
+1865 Werner 2023,pollinator,2,2210.0,2273.0,1
+2465.5 Sperry 2023,mother,2,2587.5,2670.0,2
+2447.1 Cutrupi 2022,pollinator,2,2379.75,2390.0,1
+2551 Ford 2024,pollinator,2,2480.0,2491.0,1
+2702.9 Cutrupi 2021,pollinator,2,2225.25,2240.5,1
+2639.4 Paton 2024,pollinator,2,2160.9,2169.0,1
+2501 Bernstrom 2023,pollinator,2,2251.0,2301.0,1
+2469 Daletas 2018,pollinator,2,2304.35,2425.0,2
+2551 Ford 2024,mother,2,2426.25,2469.0,1
+2907 Paton 2022 DMG,pollinator,2,2398.8500000000004,2639.4,1
+839 Sandercock 2021,mother,2,2234.5,2273.0,2
+2439.4 VanGeel 2021,pollinator,2,2291.15,2306.0,1
+2344.5 Wallace 2023,pollinator,2,2328.25,2531.0,1
+2356.7 Mendi 2021,mother,2,2286.5,2332.5,1
+1542 Urena,mother,2,2223.0,2304.0,2
+1625.5 Gantner,pollinator,2,2148.75,2157.5,2
+1707.5 Caspers 2021,mother,2,2173.75,2215.6,2
+1875 Mendi 2017,mother,2,2513.8,2593.7,2
+1852 Vander Wielen,mother,1,2158.0,2158.0,1
+1849.5 Stelts 2021,mother,1,2164.5,2164.5,1
+1803 Gadberry,pollinator,1,2528.0,2528.0,1
+1792 Thomson 2023,mother,1,2147.0,2147.0,1
+1742 Wolf,pollinator,1,2416.5,2416.5,1
+1747.5 Handy,mother,1,2195.0,2195.0,1
+1783 New 2022,mother,1,2207.0,2207.0,1
+1756 Howell/Jolivette,mother,1,2145.5,2145.5,1
+1625 Gantner,pollinator,1,2145.5,2145.5,1
+1683 Geddes 2023,mother,1,2260.0,2260.0,1
+1695.5 Booth,pollinator,1,2356.0,2356.0,1
+1699 Theil,pollinator,1,2195.0,2195.0,1
+1514.5 Sloan,pollinator,1,2194.4,2194.4,1
+1501 WanderWeilen,pollinator,1,2158.3,2158.3,1
+1620 Pritchard 2021,mother,1,2140.0,2140.0,1
+1806 Sperry,mother,1,2136.5,2136.5,1
+1802.3 Salvagni 2021,pollinator,1,2209.0,2209.0,1
+1801 Berrens,mother,1,2138.9,2138.9,1
+1790 Wallace,pollinator,1,2261.0,2261.0,1
+1501 Vander Wielan 2017,mother,1,2350.0,2350.0,1
+"1,707.5 Caspers",mother,1,2424.0,2424.0,1
+1501 Vander Weilen,pollinator,1,2147.5,2147.5,1
+1433DMGBoonenPaul,pollinator,1,2282.9,2282.9,1
+1418 Lehrer 17,pollinator,1,2152.0,2152.0,1
+1357 Wolf 2021,pollinator,1,2387.0,2387.0,1
+1300 Gienger,mother,1,2360.0,2360.0,1
+1088 Miller 2023,pollinator,1,2137.0,2137.0,1
+102 Kaczenski,pollinator,1,2190.5,2190.5,1
+2095 Willemijns,mother,1,2228.9,2228.9,1
+2095 Brandt 2017,mother,1,2136.0,2136.0,1
+2080 Lopresti 2022,mother,1,2365.5,2365.5,1
+2069 Stelts 2022,mother,1,2453.0,2453.0,1
+2050 Dmg Conradie,pollinator,1,2341.3,2341.3,1
+2064.2 Baumert 2024,mother,1,2178.6,2178.6,1
+2042 Kisamore 2023,pollinator,1,2551.0,2551.0,1
+2042 Kisamore 2023,mother,1,2201.0,2201.0,1
+2029 Kent 2024,mother,1,2146.5,2146.5,1
+"2033,8Vanheuckelom",mother,1,2306.0,2306.0,1
+2021 Hoornstra 2024,pollinator,1,2207.0,2207.0,1
+1990kelma/solberg,pollinator,1,2237.0,2237.0,1
+2003 Haist S,mother,1,2269.0,2269.0,1
+2003 Haist South,mother,1,2416.5,2416.5,1
+2004 Vander Wielen,pollinator,1,2158.0,2158.0,1
+2005 Haist 2018,mother,1,2517.0,2517.0,1
+1971.5 Barlow,mother,1,2283.0,2283.0,1
+1989.5 Conway 2022,mother,1,2131.0,2131.0,1
+1984 Barron,mother,1,2118.0,2118.0,1
+1975.5 Fleser 2023,mother,1,2518.0,2518.0,1
+1975 Wallace,mother,1,2252.3,2252.3,1
+"2,702.9 Cutrupi",pollinator,1,2424.0,2424.0,1
+1989.5 Daletas 2017 DMG,pollinator,1,2169.5,2169.5,1
+1989.5 Conway 2022,pollinator,1,2501.0,2501.0,1
+1935 Ford,pollinator,1,2177.0,2177.0,1
+1935 Ford,mother,1,2147.5,2147.5,1
+"1928,5Daletas",pollinator,1,2164.9,2164.9,1
+"1928,5Daletas",mother,1,2164.9,2164.9,1
+1938 Sperry 2017,pollinator,1,2294.5,2294.5,1
+1937 Urena,pollinator,1,2469.0,2469.0,1
+1937 Urena,mother,1,2170.0,2170.0,1
+1949 Paton,pollinator,1,2269.4,2269.4,1
+1872 Willemijns,pollinator,1,2624.6,2624.6,1
+1901 Erickson 2023,pollinator,1,2371.0,2371.0,1
+1875 Mendi 2017,pollinator,1,2183.9,2183.9,1
+1890 Mathiowetz,pollinator,1,2420.0,2420.0,1
+1893.5 Daletas,pollinator,1,2143.0,2143.0,1
+1911 Wolf,pollinator,1,2142.0,2142.0,1
+1912 Stelts #8,pollinator,1,2376.5,2376.5,1
+1916 Barron 2014,pollinator,1,2230.5,2230.5,1
+1928 Daletas,mother,1,2157.5,2157.5,1
+1928 DALETAS,mother,1,2158.3,2158.3,1
+1921 Noel 2024,pollinator,1,2507.0,2507.0,1
+1917 Wolf 2023 DMG,pollinator,1,2197.8,2197.8,1
+1904.5 Sperry 2022,mother,1,2154.0,2154.0,1
+2147.5 Sippel 2022,pollinator,1,2266.0,2266.0,1
+2147.5 Sippel 2022,mother,1,2151.5,2151.5,1
+2174 Daletas,pollinator,1,2365.0,2365.0,1
+"2183,7Mendi",pollinator,1,2209.0,2209.0,1
+2168.5 Werner 2022,mother,1,2239.5,2239.5,1
+2168.5 Werner 2022,pollinator,1,2184.0,2184.0,1
+2131 Bernstrom 2023,mother,1,2228.0,2228.0,1
+2114 Wallace 2018,pollinator,1,2174.0,2174.0,1
+2110 Platte,mother,1,2405.0,2405.0,1
+2110 Platte,pollinator,1,2283.0,2283.0,1
+2147 Marshall 2022,mother,1,2457.0,2457.0,1
+2164.5 Stelts 2022,pollinator,1,2227.0,2227.0,1
+2158.3 Paton 2024,mother,1,2152.8,2152.8,1
+2131.9 Wuersching 2023,mother,1,2124.2,2124.2,1
+"2138,9Biermans2018",pollinator,1,2241.0,2241.0,1
+2097 Kisamore 2024 DMG,pollinator,1,2146.5,2146.5,1
+2110 Platte 2021,pollinator,1,2181.5,2181.5,1
+2096 meier,mother,1,2185.0,2185.0,1
+2096 Meier,mother,1,2157.0,2157.0,1
+2344.5 Wallace 2023,mother,1,2207.0,2207.0,1
+2342 Stelts 2022,mother,1,2376.5,2376.5,1
+2328 Meier DMG,pollinator,1,2323.7,2323.7,1
+2323.7 Meier 2014,pollinator,1,2185.0,2185.0,1
+2319.3 Stoeckl 2023,pollinator,1,2215.6,2215.6,1
+2319.3 Stoeckl 2023,mother,1,2459.9,2459.9,1
+2301 Pugh 2024,pollinator,1,2204.5,2204.5,1
+2287 Sadiq 2022,mother,1,2181.5,2181.5,1
+2262 Stelts,pollinator,1,2131.0,2131.0,1
+2283 Barlow-Jacobus 2018,mother,1,2261.0,2261.0,1
+2276.3 Boonen 2022,mother,1,2209.0,2209.0,1
+2271 Vander Wielen 2023 DMG,mother,1,2371.0,2371.0,1
+2262 Stelts 2022,mother,1,2124.0,2124.0,1
+2250 Schmit 2024,pollinator,1,2383.5,2383.5,1
+2257 Paton 2024 UOW,mother,1,2183.9,2183.9,1
+2261.5 Wallace,pollinator,1,2363.0,2363.0,1
+"2226,7DMGBoonenHerman",mother,1,2241.0,2241.0,1
+2209 Boonen 2023,pollinator,1,2557.4,2557.4,1
+2201 Wallace,mother,1,2128.0,2128.0,1
+2250 Schmit 2024,mother,1,2263.0,2263.0,1
+2243 Stelts 2022,mother,1,2227.0,2227.0,1
+2241 VanGeel 2019,pollinator,1,2439.4,2439.4,1
+2234 Noel 2022,pollinator,1,2471.0,2471.0,1
+2230.5 Wallace 2015,mother,1,2194.4,2194.4,1
+2187 Mendi,pollinator,1,2287.0,2287.0,1
+2201 Wallace,pollinator,1,2359.5,2359.5,1
+2425 Daletas 2022,mother,1,2184.0,2184.0,1
+2419 Jacobus 2024,mother,1,2167.5,2167.5,1
+2376.5 Stelts 2023,mother,1,2531.0,2531.0,1
+2350 Gienger 2020,pollinator,1,2376.0,2376.0,1
+2357 Jacobus 2024,pollinator,1,2167.5,2167.5,1
+2369.5 Werner 2024,pollinator,1,2281.3,2281.3,1
+2520 Schmidt,mother,1,2350.0,2350.0,1
+2493 Wolf 2022,pollinator,1,2131.9,2131.9,1
+2469 Daletas 2018,mother,1,2191.0,2191.0,1
+2493 Wolf 2022,mother,1,2217.5,2217.5,1
+2447.1 Cutrupi 2022,mother,1,2610.3,2610.3,1
+2433.9 Paton 2018,mother,1,2169.5,2169.5,1
+2464 Stelts 2024,mother,1,2319.0,2319.0,1
+2464 Stelts 2024,pollinator,1,2477.5,2477.5,1
+2425 Daletas 2022,pollinator,1,2239.5,2239.5,1
+2376.5 Stelts 2023,pollinator,1,2464.0,2464.0,1
+2390 Urena 2024,mother,1,2166.0,2166.0,1
+2404 Barron 2023,mother,1,2252.5,2252.5,1
+2405 Gunstrom 2022,pollinator,1,2315.0,2315.0,1
+2416.5 Haist 2018,pollinator,1,2118.0,2118.0,1
+2520 Schmit 2021,pollinator,1,2250.0,2250.0,1
+2551.9 Mendi 2020,pollinator,1,2517.7,2517.7,1
+2650 Gienger 2022,pollinator,1,2131.0,2131.0,1
+2641.1 Paton 2024,pollinator,1,2462.6,2462.6,1
+2641.1 Paton 2024,mother,1,2819.3,2819.3,1
+2557.4 VanGeel 2024,mother,1,2243.2,2243.2,1
+2520 Schmit,mother,1,2210.0,2210.0,1
+2670 Thompson 2024,mother,1,2378.5,2378.5,1
+2749 Gienger 2023,mother,1,2282.9,2282.9,1
+2731.5 Stelts 2024,pollinator,1,2212.5,2212.5,1
+300Crews est,pollinator,1,2537.0,2537.0,1
+326 Ritter,mother,1,2359.0,2359.0,1
+839 Sandercock 2021,pollinator,1,2225.5,2225.5,1
+872 Kisamore,mother,1,2195.5,2195.5,1
+900 Corbin 2020 DMG,mother,1,2289.0,2289.0,1
+Gunstrom 2405,mother,1,2251.0,2251.0,1
+SIB (Turbo),pollinator,1,2357.0,2357.0,1
+Sibbed,pollinator,1,2359.0,2359.0,1

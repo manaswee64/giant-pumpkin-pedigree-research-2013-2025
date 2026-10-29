@@ -1,0 +1,29 @@
+raw_country,clean_country,records,status
+United States,United States,14272,accepted
+Canada,Canada,3003,accepted
+Germany,Germany,1809,accepted
+Italy,Italy,600,accepted
+Austria,Austria,570,accepted
+Japan,Japan,565,accepted
+Belgium,Belgium,525,accepted
+United Kingdom,United Kingdom,288,accepted
+Spain,Spain,244,accepted
+Portugal,Portugal,214,accepted
+Netherlands,Netherlands,204,accepted
+Slovenia,Slovenia,198,accepted
+France,France,193,accepted
+Switzerland,Switzerland,160,accepted
+South Africa,South Africa,135,accepted
+Finland,Finland,115,accepted
+Poland,Poland,100,accepted
+New Zealand,New Zealand,77,accepted
+Russia,Russian Federation,20,accepted
+Hungary,Hungary,20,accepted
+Mexico,Mexico,18,accepted
+Ireland,Ireland,13,accepted
+Serbia,Serbia,9,accepted
+Denmark,Denmark,6,accepted
+Australia,Australia,4,accepted
+Luxembourg,Luxembourg,1,accepted
+Ontario,,1,unrecognized_removed
+Unknown country,,1,unrecognized_removed

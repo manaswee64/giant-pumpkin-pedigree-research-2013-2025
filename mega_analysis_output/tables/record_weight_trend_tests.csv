@@ -1,0 +1,7 @@
+analysis,test,estimate,estimate_unit,p_value,r2,ci_low,ci_high
+Annual maximum record weight,OLS linear trend,53.16923076923153,lb/year,3.230858285689707e-05,0.8047244357357354,35.787960800545044,70.55050073791801
+Annual maximum record weight,Spearman trend,0.9230769230769231,rho,6.851685949643354e-06,,,
+Annual maximum record weight,Kendall trend,0.7948717948717947,tau,3.1929233318122206e-05,,,
+Annual maximum record weight,Mann-Kendall,62.0,S,0.0001980098099469651,,,
+Annual maximum record weight,Theil-Sen,53.40714285714288,lb/year,0.0001980098099469651,,35.15000000000009,71.7
+Annual maximum record weight,Bootstrap OLS slope,53.298360316851095,lb/year,,,31.648825690396894,67.57542400955174

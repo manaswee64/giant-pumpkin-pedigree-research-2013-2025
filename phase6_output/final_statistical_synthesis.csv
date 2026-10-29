@@ -1,0 +1,5 @@
+research_question,metric,estimate,ci_low,ci_high,p_value,interpretation
+RQ2: Record trajectory,Annual maximum weight,53.16923076923153,35.787960800545044,70.55050073791801,3.230858285689707e-05,Positive temporal trend
+RQ2: Record trajectory,Year-to-year improvement,-9.3555944055936,-42.54804690234897,23.836858091161773,0.5440649307906006,No statistically significant trend in annual improvement
+RQ3: Geographic expansion,Number of countries,0.6483516483516576,0.3984820446905887,0.8982212520127265,0.00013595837492925888,Geographic representation increased
+RQ3: Geographic concentration,Country HHI,-0.007683327485911443,-0.012290323425185556,-0.0030763315466373316,0.0036851375742573507,Country concentration decreased

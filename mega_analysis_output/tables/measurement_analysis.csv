@@ -1,0 +1,3 @@
+analysis,n,pearson_r,pearson_p,mae,rmse,mean_error,spearman_r,spearman_p
+estimated_weight_vs_actual,23365,0.8869117046973141,0.0,125.03097453456023,270.8326465024667,-80.41214551679862,,
+ott_vs_actual,23364,0.6859433869439783,0.0,,,,0.8642129380486467,0.0

@@ -1,0 +1,70 @@
+GIANT PUMPKIN MEGA ANALYSIS
+============================================================
+
+Primary period: 2013-2025
+Primary records: 23,365
+
+RECORD WEIGHT TREND
+Slope: 53.1692 lb/year
+95% CI: [35.7880, 70.5505]
+R²: 0.8047
+p: 3.2308583e-05
+
+QUADRATIC MODEL
+Quadratic coefficient: -3.29060939
+R²: 0.8386
+AIC: 122.7298
+BIC: 124.4247
+
+BEST PIECEWISE CHANGEPOINT
+Breakpoint: 2016
+Slope before: 126.1183
+Slope change: -88.5116
+Slope after: 37.6068
+BIC: 121.2703
+
+GEOGRAPHIC EXPANSION
+countries: 11 -> 21
+states_provinces: 60 -> 104
+cities: 759 -> 954
+gpc_sites: 88 -> 129
+
+COUNTRY CONCENTRATION
+HHI: 0.4633 -> 0.3838
+Effective countries: 2.158 -> 2.606
+Top country share: 65.68% -> 60.05%
+
+FDR-SIGNIFICANT TREND TESTS
+q99_weight | Spearman | effect=0.986813 | p=7.38e-11 | q=1.24e-08
+q99_weight | linear regression | effect=53.5377 | p=1.681e-09 | q=1.412e-07
+mother_jaccard_previous | Spearman | effect=-0.986014 | p=4.117e-09 | q=2.305e-07
+q99_weight | Kendall | effect=0.934066 | p=1.25e-08 | q=5.251e-07
+pollinator_jaccard_previous | Spearman | effect=-0.972028 | p=1.287e-07 | q=4.324e-06
+pollinator_new_parent_fraction | Spearman | effect=-0.961538 | p=1.632e-07 | q=4.569e-06
+mother_jaccard_previous | Kendall | effect=-0.939394 | p=3.215e-07 | q=7.716e-06
+pollinator_jaccard_previous | Kendall | effect=-0.909091 | p=1.466e-06 | q=3.078e-05
+pollinator_new_parent_fraction | Kendall | effect=-0.871795 | p=1.808e-06 | q=3.375e-05
+q95_weight | Spearman | effect=0.916484 | p=4.084e-06 | q=6.497e-05
+q99_weight | Mann-Kendall | effect=85 | p=4.254e-06 | q=6.497e-05
+q95_weight | Kendall | effect=0.802198 | p=8.817e-06 | q=0.0001234
+mother_jaccard_previous | linear regression | effect=-0.0047522 | p=9.745e-06 | q=0.0001259
+mother_new_parent_fraction | Kendall | effect=-0.820513 | p=1.347e-05 | q=0.0001515
+q95_weight | linear regression | effect=32.6406 | p=1.443e-05 | q=0.0001515
+mother_new_parent_fraction | Spearman | effect=-0.912088 | p=1.398e-05 | q=0.0001515
+record_max | Spearman | effect=0.89011 | p=1.999e-05 | q=0.0001865
+new_grower_fraction | Spearman | effect=-0.906593 | p=1.93e-05 | q=0.0001865
+countries | linear regression | effect=0.659341 | p=2.293e-05 | q=0.0002028
+pollinator_jaccard_previous | linear regression | effect=-0.00415397 | p=2.886e-05 | q=0.0002309
+mother_jaccard_previous | Mann-Kendall | effect=-62 | p=2.878e-05 | q=0.0002309
+new_grower_fraction | Kendall | effect=-0.794872 | p=3.193e-05 | q=0.0002438
+countries | Spearman | effect=0.892455 | p=4.074e-05 | q=0.0002975
+pollinator_new_parent_fraction | Mann-Kendall | effect=-68 | p=4.359e-05 | q=0.0002998
+record_max | linear regression | effect=47.1993 | p=4.461e-05 | q=0.0002998
+pollinator_jaccard_previous | Mann-Kendall | effect=-60 | p=5.215e-05 | q=0.000337
+record_max | Kendall | effect=0.736264 | p=7.724e-05 | q=0.0004806
+q95_weight | Mann-Kendall | effect=73 | p=8.093e-05 | q=0.0004856
+q90_weight | Spearman | effect=0.854945 | p=9.766e-05 | q=0.0005658
+states_provinces | linear regression | effect=3.06044 | p=0.0001118 | q=0.0006263
+
+Tables: mega_analysis_output/tables
+Figures: mega_analysis_output/figures

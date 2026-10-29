@@ -1,0 +1,2 @@
+records_with_both_weights,mean_kg_error,median_kg_error,MAE_kg,RMSE_kg,within_0.1kg_pct,within_0.01kg_pct
+23701,2.8875277918878697e-05,3.919999994650425e-05,0.0024667383794183956,0.002855907830415714,100.0,100.0
